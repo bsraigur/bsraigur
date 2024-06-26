@@ -1,4 +1,4 @@
-[![MasterHead](https:)
+![MasterHead](https://thumbs.dreamstime.com/b/banner-data-science-concept-english-keywords-icon-analysis-structure-algorithm-process-programming-solving-knowledge-252804336.jpg)
 <h1 align="center">Hi 👋, I'm BharatSingh Rajpurohit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsraigur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsraigur" height="30" width="40" /></a>
-<a href="https://instagram.com/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bsraigur" height="30" width="40" /></a>
-<a href="https://twitter.com/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bsraigur" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bsraigur" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bsraigur" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/bsraigur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bsraigur" height="30" width="40" /></a>
 </p>
 
