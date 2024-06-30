@@ -15,7 +15,12 @@
 
 - Proficient in Python, Machine Learning, Deep learning, Feature Engineering, Natural Language Processing and SQL.   I am always keen to learn new skills. I'm passionate about leveraging Machine Learning and Deep Learning techniques to drive Innovative solutions and optimize user experiences.
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
+
+<img height=220 alt="Top Lang" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsraigur&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+
 <p align="left">
 <a href="https://linkedin.com/in/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsraigur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bsraigur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsraigur" height="30" width="40" /></a>
@@ -24,7 +29,7 @@
 <a href="https://www.codechef.com/users/bsraigur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bsraigur" height="30" width="40" /></a>
 </p>
 
-<img height=220 alt="Top Lang" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsraigur&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
